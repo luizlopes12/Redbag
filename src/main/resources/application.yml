@@ -20,6 +20,6 @@ spring:
     show-sql: true
 
 cloudinary:
-  cloud-name:
-  api-key:
-  api-secret:
+  cloud-name: dmkelwf5l
+  api-key: 626283538119945
+  api-secret: W3h0cOWAr_CiqKggPCrIhJVOLTM
